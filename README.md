@@ -1,11 +1,8 @@
 # Requirements
-1. <code>cd ~</code>
-2. <code>cd Desktop</code>
-3. Create your folder : <code>mkdir MyFolder</code>
-4. <code>git clone https://github.com/eniotnaCDMX/Requirements.git MyFolder</code>
-5. <code>cd MyFolder</code>
-6. <code>chmod 777 Venv_config.sh</code>
-7. <code>./Venv_config.sh</code>
+1. Place NewProject.sh on your Desktop
+2. Give the rights : <code>chmod 777 NewProjects.sh </code>
+3. Run the file (assuming you are on your Desktop) : <code>./NewProjects</code>
+
 
 
 
